@@ -1,0 +1,28 @@
+{
+    "id": "A75F8DE4",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1747068544883.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "id": "ceecab88598345bfa9f7de4270e10779",
+        "name": "conv_prob_ma1_intercept",
+        "title": "conv_prob_ma1_intercept",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3158480080208,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747068544883,
+    "read_only": false,
+    "read_only_alternatives": []
+}

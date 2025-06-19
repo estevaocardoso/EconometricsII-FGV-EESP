@@ -1,0 +1,28 @@
+{
+    "id": "3E5449EF",
+    "path": null,
+    "project_path": null,
+    "type": "object_explorer",
+    "hash": "0",
+    "contents": "",
+    "dirty": false,
+    "created": 1747068290397.0,
+    "source_on_save": false,
+    "relative_order": 3,
+    "properties": {
+        "id": "43830b58c00a4940ab9964ff82024d7f",
+        "name": "results_ma1_intercept",
+        "title": "results_ma1_intercept",
+        "language": "R",
+        "source_window_id": "",
+        "Source": "Source"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 3158779561576,
+    "encoding": "",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747068290397,
+    "read_only": false,
+    "read_only_alternatives": []
+}

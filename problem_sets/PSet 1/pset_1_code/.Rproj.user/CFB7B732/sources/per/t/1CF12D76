@@ -1,0 +1,26 @@
+{
+    "id": "1CF12D76",
+    "path": "G:/Meu Drive/Phd/2025/second quarter/econometrics II/problem_sets/problem_sets/PSet 1/pset_1_code/functions_mc.R",
+    "project_path": "functions_mc.R",
+    "type": "r_source",
+    "hash": "2114106787",
+    "contents": "",
+    "dirty": false,
+    "created": 1747076361919.0,
+    "source_on_save": false,
+    "relative_order": 4,
+    "properties": {
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "7,16",
+        "scrollLine": "0"
+    },
+    "folds": "34|59|198|0|\n201|60|287|0|\n295|49|409|0|\n411|70|505|0|\n510|59|670|0|\n672|49|741|0|\n746|43|777|1|\n778|80|778|80|\n779|49|790|0|\n792|50|804|0|\n806|32|821|0|\n827|43|849|0|\n851|49|862|0|\n864|50|876|0|\n878|32|895|0|\n900|45|922|0|\n924|51|934|0|\n936|52|947|0|\n949|34|961|0|\n962|80|965|0|\n",
+    "lastKnownWriteTime": 1747171198,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1747171198723,
+    "read_only": false,
+    "read_only_alternatives": []
+}
